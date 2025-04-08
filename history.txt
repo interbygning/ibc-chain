@@ -15,3 +15,4 @@
 2025-09-29 13:16:15 simplify logic
 2025-06-16 00:18:21 enhance error reporting
 2025-03-01 20:10:11 fix config bug
+2025-04-08 17:29:04 update LICENSE
